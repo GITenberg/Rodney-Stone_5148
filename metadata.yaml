@@ -1,0 +1,45 @@
+_repo: Rodney-Stone_5148
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: "Rodney Stone is a Gothic mystery and boxing novel by Scottish writer\
+  \ Sir Arthur Conan Doyle first published in 1896.\nThe eponymous narrator is a Sussex\
+  \ country boy who is taken to London by his uncle Sir Charles Tregellis, a highly\
+  \ respected gentleman and arbiter of fashion who is on familiar terms with the most\
+  \ important people of Great Britain. The novel interweaves Rodney's coming-of-age\
+  \ story with that of his friend Boy Jim's boxing endeavors, and a large portion\
+  \ of it deals with the famous bare-knuckle boxers of the late eighteenth and early\
+  \ nineteenth century, such as Jem Belcher, John Jackson, Daniel Mendoza, Dutch Sam,\
+  \ and others. The book includes vignettes of a number of historical personages,\
+  \ notably the Prince Regent, Lord Nelson, Sir John Lade, Lord Cochrane and Beau\
+  \ Brummell.\nIt was adapted into a 1913 silent film, The House of Temperley, directed\
+  \ by Harold M. Shaw.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5148'
+  wikidata: Q4395914
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boxing stories'
+- !lcsh 'Boxing -- England -- Fiction'
+- !lcc 'PR'
+title: Rodney Stone
+url: http://www.gutenberg.org/ebooks/5148
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8_%D0%A1%D1%82%D0%BE%D1%83%D0%BD
+- https://en.wikipedia.org/wiki/Rodney_Stone
+- https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D1%96_%D0%A1%D1%82%D0%BE%D1%83%D0%BD
